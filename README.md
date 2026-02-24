@@ -1,7 +1,8 @@
-Pedagogické portfolio <br>
-Magisterské studium <br>
-Bc. Lucie Bryndová (D41758) <br>
-Katedra technické a informační výchovy <br>
+**Pedagogické portfolio** <br>
+Bakalářské studium <br>
+Václav Mojžíšek (D250375) <br>
+ITZV/HSZNVZ(historie se zaměřením na vzdělávání) <br>
+*Katedra technické a informační výchovy* <br>
 Pedagogická fakulta, UPOL
 
 __Zde budou vaše vlastní údaje__
